@@ -229,18 +229,15 @@ In this version, the start and end points of all accepted lines are collected an
 [5]: ./test_images_output/solidYellowLeft.jpg
 [6]: ./test_images_output/whiteCarLaneSwitch.jpg
 
-[7]:  ./test_videos_output/solidWhiteRight_frame_0.jpg
-[72]: ./test_videos_output/solidWhiteRight.mp4 "Link Title"
+[7]:  https://img.youtube.com/vi/CtPH0Z8UaZ4/0.jpg
 [71]: https://youtu.be/CtPH0Z8UaZ4
 
-[8]:  ./test_videos_output/solidYellowLeft_frame_0.jpg
-[82]: ./test_videos_output/solidYellowLeft.mp4 "Link Title"
+[8]:  https://img.youtube.com/vi/0D_f022FUPw/0.jpg
 [81]: https://youtu.be/0D_f022FUPw
 
-[9]: ./test_videos_output/challenge_original_frame_0.jpg
-[92]:  ./test_videos_output/challenge_first_try.mp4 "Link Title"
+
+[9]: https://img.youtube.com/vi/QjO57SBG28A/0.jpg
 [91]: https://youtu.be/QjO57SBG28A
 
-[10]: ./test_videos_output/challenge_modified_frame_0.jpg
-[102]:  ./test_videos_output/challenge_modified.mp4 "Link Title"
+[10]: https://img.youtube.com/vi/j0Gn0QZcHQA/0.jpg
 [101]: https://youtu.be/j0Gn0QZcHQA
