@@ -1,0 +1,53 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:bold);
+@import url(http://fonts.googleapis.com/css?family=Vollkorn);
+
+
+html { 
+  font-size: 100%; 
+  overflow-y: scroll; 
+  -webkit-text-size-adjust: 100%; 
+      -ms-text-size-adjust: 100%; 
+}
+
+/* body {
+  max-width:42em;
+  padding:1em;
+  margin:auto;
+  color:#444;
+  line-height:1.5em;
+  font-family:Vollkorn, Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+  font-size:12px;
+  background:#fefefe;
+} */
+
+a { 
+  color: #0645ad; 
+  text-decoration:none;
+}
+
+a:visited { color: #0b0080; }
+a:hover   { color: #06e; }
+a:active  { color:#faa700; }
+a:focus   { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+
+img {
+  border-radius: 50%;
+  height: 200px;
+  margin: 0 auto;
+  width: 200px;
+}
+
+caption {
+    margin: 10px 50px;
+        color: red;
+        width: 100%;
+        text-align: center;
+        font-weight: bold;
+}
+
+redcode {
+    	color:Red;
+        font-weight: bold;
+}    
+ 
